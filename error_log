@@ -1,0 +1,6 @@
+[21-Apr-2017 05:20:34 America/Chicago] PHP Fatal error:  Call to undefined method Become_Router::view() in /home/routedeliveries/public_html/application/controllers/become_router.php on line 193
+[21-Apr-2017 05:40:14 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/routedeliveries/public_html/application/controllers/admin1/customer_service.php on line 110
+[21-Apr-2017 06:27:07 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home/routedeliveries/public_html/application/controllers/router/my_profile.php on line 52
+[21-Apr-2017 06:27:12 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home/routedeliveries/public_html/application/controllers/router/my_profile.php on line 52
+[21-Apr-2017 06:27:58 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home/routedeliveries/public_html/application/controllers/router/my_profile.php on line 52
+[21-Apr-2017 06:30:36 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home/routedeliveries/public_html/application/controllers/router/my_profile.php on line 49
